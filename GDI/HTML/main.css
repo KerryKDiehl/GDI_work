@@ -1,0 +1,66 @@
+body{
+	background-color: #ddd;
+	color: #112;
+	font-family: fantasy;	
+}
+p{
+	background-color: pink;
+	font-family: "cursive";
+	padding: 10x 20x;
+	width: 400px;
+}
+p em{
+	color: #042D63;
+	background-color: #F0A853;
+	font-size: 12pt;
+	font-family: "Times New Roman";
+	}
+
+.Lyrics{
+	background-color: silver;
+	font-family: "comic sans ms","bookman old style","cursive";
+	font-size: 15pt;
+	width: 300px;
+	line-height: 40px;
+	}
+
+ul{
+	width: 200px;
+}
+ul li{
+	background: yellow;
+	color: orange;
+	font-style: bold;
+	font-size: 110%;
+	padding: 5x 5x;
+	margin: 10x 15x;
+	
+}
+h1{
+	font-style: italic;
+	font-family: "cursive";
+	text-align: center;
+	color: #125332;
+	font-size: 300%;
+}
+
+h2, h3, h4, h5{
+	text-indent: 3cm;
+}
+
+h6{
+	color: #224;
+	background: grey;
+	font-size: 24pt;
+	text-align: right;
+	text-transform: uppercase;
+
+}
+img{
+	border: 10px solid #123;
+}
+a:hover{
+	color: red;
+	text-decoration: underline;
+
+}
