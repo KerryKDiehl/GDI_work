@@ -1,2 +1,1 @@
-nice-try
-========
+Girl Develop It started a Milwaukee chapter so these files are what I've learned/worked on in class.  It's nothing exciting yet but I figured it would be a great way to start learning how to use Github while I learn how to code!!
